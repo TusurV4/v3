@@ -31,6 +31,8 @@ namespace View
     {
         /// <summary>
         /// Конструктор класса MainForm.
+        /// Изменение комментария к конструктору 
+        /// MainForm для выполнения lr3.
         /// </summary>
         public MainForm()
         {
