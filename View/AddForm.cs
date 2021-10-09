@@ -31,6 +31,8 @@ namespace View
 
         /// <summary>
         /// Конструктор класса AddForm.
+        /// Изменение комментария к конструктору 
+        /// AddForm для выполнения lr3.
         /// </summary>
         /// <param name="transport">Транспортное средство.</param>
         /// <param name="updateTransport">Делегат

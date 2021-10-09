@@ -22,6 +22,8 @@ namespace View
 
         /// <summary>
         /// Конструктор класса SearchForm.
+        /// Изменение комментария к конструктору 
+        /// SearchForm для выполнения lr3.
         /// </summary>
         /// <param name="searchDelegate">Делегат поиска 
         /// транспортного средства.</param>
